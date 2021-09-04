@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "Wushuang",
+  "description": "这是一个提供举世无双花名的工具",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
